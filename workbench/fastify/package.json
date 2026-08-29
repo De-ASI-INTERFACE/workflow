@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/node": "catalog:",
     "@workflow/world-postgres": "workspace:*",
-    "ai": "catalog:",
+    "ai": "6.0.203",
     "lodash.chunk": "^4.2.0",
     "openai": "^6.6.0",
     "typescript": "catalog:",
